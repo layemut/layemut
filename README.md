@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @layemut
-- 👀 I’m interested in 
 - 🌱 I’m currently learning golang
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ozcancandag@protonmail.com
 
 <!---
